@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13b106ac-f03f-4400-aaf4-baf3d75e2e4a" name="Changes" comment="" />
+    <list default="true" id="13b106ac-f03f-4400-aaf4-baf3d75e2e4a" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/acm.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmipdc.py" beforeDir="false" afterPath="$PROJECT_DIR$/hmipdc.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +19,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="238wZ1rVvOhnGtrcYvrRjxnvsuF" />
   <component name="ProjectViewState">
@@ -234,6 +240,7 @@
       <workItem from="1684410632410" duration="2372000" />
       <workItem from="1688870915891" duration="1348000" />
       <workItem from="1688872297100" duration="274000" />
+      <workItem from="1689234713914" duration="7000" />
     </task>
     <servers />
   </component>
