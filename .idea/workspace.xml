@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13b106ac-f03f-4400-aaf4-baf3d75e2e4a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="238wZ1rVvOhnGtrcYvrRjxnvsuF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/param_new_no_seed" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/param_new_pn_input" />
+      <recent name="$PROJECT_DIR$/param_maxacc" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/param/param_new" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.hmipdc (1)">
+    <configuration name="hmipdc (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test-no-embed" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hmipdc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hmipdc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test-no-embed" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Desktop\论文\小论文\HMIPDC\hmipdc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="my_figure_contr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test-no-embed" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../module/实验相关/参数比较" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../module/实验相关/参数比较/my_figure_contr.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="my_figure_nContrast" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test-no-embed" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../module/实验相关/参数比较" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../module/实验相关/参数比较/my_figure_nContrast.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="my_figure_time" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test-no-embed" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../推期刊改进/time/pre" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../推期刊改进/time/pre/my_figure_time.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.hmipdc (1)" />
+        <item itemvalue="Python.my_figure_time" />
+        <item itemvalue="Python.my_figure_nContrast" />
+        <item itemvalue="Python.my_figure_contr" />
+        <item itemvalue="Python.hmipdc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13b106ac-f03f-4400-aaf4-baf3d75e2e4a" name="Changes" comment="" />
+      <created>1641129078684</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641129078684</updated>
+      <workItem from="1648014879933" duration="7336000" />
+      <workItem from="1648033317744" duration="5091000" />
+      <workItem from="1648101220328" duration="950000" />
+      <workItem from="1648189585096" duration="894000" />
+      <workItem from="1648278335548" duration="6164000" />
+      <workItem from="1648644466383" duration="2964000" />
+      <workItem from="1648969771253" duration="1566000" />
+      <workItem from="1648972261530" duration="873000" />
+      <workItem from="1649923529915" duration="2035000" />
+      <workItem from="1650094441683" duration="2183000" />
+      <workItem from="1650263479107" duration="1696000" />
+      <workItem from="1650356044957" duration="3772000" />
+      <workItem from="1650459672203" duration="936000" />
+      <workItem from="1650715633864" duration="37000" />
+      <workItem from="1651651640595" duration="1324000" />
+      <workItem from="1651804556621" duration="982000" />
+      <workItem from="1651927562852" duration="662000" />
+      <workItem from="1652704188902" duration="1900000" />
+      <workItem from="1652708776357" duration="613000" />
+      <workItem from="1652882383048" duration="823000" />
+      <workItem from="1653224113087" duration="115000" />
+      <workItem from="1655972407139" duration="1525000" />
+      <workItem from="1658218351611" duration="378000" />
+      <workItem from="1658219137796" duration="1288000" />
+      <workItem from="1658628945371" duration="693000" />
+      <workItem from="1660459489295" duration="71000" />
+      <workItem from="1660462372800" duration="1246000" />
+      <workItem from="1660544887260" duration="22000" />
+      <workItem from="1661473137564" duration="99000" />
+      <workItem from="1661474609239" duration="1361000" />
+      <workItem from="1664108039281" duration="629000" />
+      <workItem from="1664112677180" duration="179000" />
+      <workItem from="1664116515892" duration="180000" />
+      <workItem from="1664528771693" duration="48000" />
+      <workItem from="1665123338009" duration="285000" />
+      <workItem from="1667043713356" duration="10000" />
+      <workItem from="1667046196069" duration="1263000" />
+      <workItem from="1667136709439" duration="2272000" />
+      <workItem from="1667287696370" duration="74000" />
+      <workItem from="1667398957198" duration="104000" />
+      <workItem from="1667649818166" duration="3158000" />
+      <workItem from="1667654983828" duration="1219000" />
+      <workItem from="1667898092994" duration="1743000" />
+      <workItem from="1668567465522" duration="1287000" />
+      <workItem from="1668577515928" duration="944000" />
+      <workItem from="1669459282149" duration="1270000" />
+      <workItem from="1671330918840" duration="943000" />
+      <workItem from="1671601777637" duration="2302000" />
+      <workItem from="1675915912803" duration="1116000" />
+      <workItem from="1675929618698" duration="671000" />
+      <workItem from="1679040912903" duration="3689000" />
+      <workItem from="1679123370528" duration="26000" />
+      <workItem from="1679123973099" duration="1176000" />
+      <workItem from="1679569657686" duration="641000" />
+      <workItem from="1683189468045" duration="4335000" />
+      <workItem from="1683333719960" duration="6397000" />
+      <workItem from="1684410632410" duration="2372000" />
+      <workItem from="1688870915891" duration="1348000" />
+      <workItem from="1688872297100" duration="274000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/test$daegc.coverage" NAME="daegc Coverage Results" MODIFIED="1655973280450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HMIPDC$daegc.coverage" NAME="daegc Coverage Results" MODIFIED="1660544890224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HMIPDC$my_figure_time.coverage" NAME="my_figure_time Coverage Results" MODIFIED="1671617882293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../推期刊改进/time/pre" />
+    <SUITE FILE_PATH="coverage/HMIPDC$my_figure_nContrast.coverage" NAME="my_figure_nContrast Coverage Results" MODIFIED="1671606561245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../module/实验相关/参数比较" />
+    <SUITE FILE_PATH="coverage/HMIPDC$hmipdc__1_.coverage" NAME="hmipdc (1) Coverage Results" MODIFIED="1683613107796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HMIPDC$my_figure_contr.coverage" NAME="my_figure_contr Coverage Results" MODIFIED="1671606499794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../module/实验相关/参数比较" />
+    <SUITE FILE_PATH="coverage/test$preembedding.coverage" NAME="preembedding Coverage Results" MODIFIED="1648644668626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
