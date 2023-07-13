@@ -341,6 +341,7 @@ def daegc(dataset):
             best_f1 = f1
             best_epoch = epoch
 
+
         desc = epoch, ':acc {:.4f}'.format(acc), ', nmi {:.4f}'.format(nmi), ', ari {:.4f}'.format(ari),
         ', f1 {:.4f}'.format(f1)
         # pbar.set_description("clu_loss:{} re_loss:{} acc:{} maxAcc:{} best_epoch:{}".format(clu_loss,re_loss,acc,maxAcc,best_epoch))  # 相当于在当前长度的基础上 +1 的操作
@@ -458,3 +459,26 @@ if __name__ == "__main__":
     maxacc, best_nmi, best_ari, best_f1, bestepoch = daegc(dataset)
     print(maxacc, best_nmi, best_ari, best_f1, bestepoch, sep='--')
 
+    # with open(f'parameter_{args.name}.txt', 'a+') as f:
+    #     f.write(f"maxacc: {maxacc} -- bestepoch: {bestepoch} -- clu_loss: {args.clu_loss} -- pn_loss: {args.pn_loss} "
+    #             f"-- max_positive: {args.max_positive} -- min_negative: {args.min_negative} "
+    #             f" -- input_dim: {args.input_dim}")
+    #     f.write('\n')
+    #     f.flush()
+    #
+    # f.close()
+
+    # with open(f'seed_{args.name}.txt', 'a+') as f:
+    #     f.write(f"maxacc: {maxacc} -- bestepoch: {bestepoch} -- seed: {args.seed}")
+    #     f.write('\n')
+    #     f.flush()
+    #
+    # f.close()
+
+    # with open(f'maxacc_{args.name}.txt', 'a+') as f:
+    #     f.write(
+    #         f"maxacc: {maxacc} -- best_nmi: {best_nmi} -- best_ari: {best_ari} -- best_f1: {best_f1} -- bestepoch: {bestepoch} -- lrpre: {args.lrpre} -- max_positive: {args.max_positive} -- min_negative: {args.min_negative} -- input_dim: {args.input_dim}")
+    #     f.write('\n')
+    #     f.flush()
+    #
+    # f.close()
